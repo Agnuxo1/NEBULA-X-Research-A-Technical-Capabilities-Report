@@ -1,0 +1,5 @@
+{
+  "name": "AI Investment Proposal Generator",
+  "description": "An application that analyzes a researcher's portfolio of AI projects, publications, and competition results to generate a professional investment proposal presentation using Gemini.",
+  "requestFramePermissions": []
+}
