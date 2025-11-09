@@ -1,3 +1,6 @@
+![300](https://github.com/user-attachments/assets/d769d650-89e3-4030-af10-16c103439090)
+
+
 # NEBULA & CHIMERA: Pioneering Neuromorphic and Optical AI Architectures
 
 ## Investor Presentation  
@@ -22,6 +25,9 @@ This presentation showcases our technical foundation, visual architectures, perf
 
 ---
 
+![301](https://github.com/user-attachments/assets/13a67b38-bddb-488f-8e28-e29cd177b4a1)
+
+
 ### 1. Introduction: Redefining AI Through Physics-Inspired Computing  
 
 Traditional AI relies on resource-intensive transformers and von Neumann architectures, leading to high energy consumption and scalability challenges. NEBULA and CHIMERA shift this paradigm by treating GPUs as cognitive substrates, simulating physical processes like light propagation, quantum entanglement, and cellular automata to enable emergent intelligence.  
@@ -33,6 +39,9 @@ Traditional AI relies on resource-intensive transformers and von Neumann archite
 **Market Opportunity**: The global AI hardware market is projected to reach $100B+ by 2028, with demand for energy-efficient solutions surging amid sustainability concerns. Our frameworks address this by reducing power usage and enabling deployment on consumer devices.
 
 ---
+
+![302](https://github.com/user-attachments/assets/82374ccd-f2d8-45a9-bf66-43fcf8e69692)
+
 
 ### 2. Technical Innovations: Core Projects and Ecosystems  
 
@@ -82,6 +91,9 @@ This diagram highlights the modular flow: foundational physics tools feed into c
 
 ---
 
+![303](https://github.com/user-attachments/assets/29221adb-f832-4069-8e43-a815f130ecbc)
+
+
 ### 3. Visual Architectures: Diagrams and Examples  
 
 To illustrate our innovations, we provide visual representations of key architectures. These emphasize the physics-first approach, where computation mimics natural phenomena.
@@ -126,6 +138,9 @@ This enables real-time analysis of imbalanced datasets like mouse behaviors, wit
 
 ---
 
+![304](https://github.com/user-attachments/assets/b171d08c-f285-4434-bbbc-fc1748ebda4d)
+
+
 ### 4. Performance Metrics: Graphs and Comparisons  
 
 Our frameworks outperform baselines in speed, accuracy, and efficiency. Below are key metrics visualized in tables and text-based graphs.
@@ -153,6 +168,9 @@ This demonstrates scalability for real-time applications.
 
 ---
 
+![305](https://github.com/user-attachments/assets/e3d55580-3083-40fd-9ce4-03b8893d6448)
+
+
 ### 5. Publications and Academic Traction  
 
 Our work is disseminated across multiple platforms, including ResearchGate (38 items, 1,315 reads, 0 citations as of November 2025), Academia.edu, OpenML, and Weights & Biases. Key papers include:  
@@ -169,6 +187,9 @@ Additional datasets on OpenML (e.g., ID 47101) and benchmarks on WandB highlight
 
 ---
 
+![306](https://github.com/user-attachments/assets/adf28aa9-e120-431d-84bb-eddad179d11c)
+
+
 ### 6. Competition Results and Validation  
 
 Validated through global challenges:  
@@ -183,6 +204,9 @@ These rankings reflect strong performance in niche physics-based AI tasks.
 
 ---
 
+![307](https://github.com/user-attachments/assets/31e58307-7f19-426b-b223-89c59c72e679)
+
+
 ### 7. Roadmap and Future Vision  
 
 **Q4 2025**: Enhance repositories, submit to top conferences.  
@@ -192,20 +216,33 @@ These rankings reflect strong performance in niche physics-based AI tasks.
 Our vision: Lead the shift to sustainable, physics-driven AI, impacting billions through efficient intelligence.
 
 
+![308](https://github.com/user-attachments/assets/3ec59df9-5a35-4b47-987e-8cac11cc122e)
 
-Neuromorphic GPU-Native Intelligence Systems
+![309](https://github.com/user-attachments/assets/2d5bfd53-0de6-42f6-98a2-38d16c31c572)
+
+
+
+
+
+### Neuromorphic GPU-Native Intelligence Systems
 A Unified Framework for Physics-Based Computing Beyond Transformer Architectures
 Francisco Angulo de Lafuente
 Independent Researcher in Neuromorphic Computing
 Madrid, Spain
 November 2025
-Abstract
+
+![310](https://github.com/user-attachments/assets/860d81fd-45d2-4f6f-8bd8-2627d5651c84)
+
+
+
+# Abstract
 We present a comprehensive framework for neuromorphic GPU-native computing that fundamentally reimagines artificial intelligence beyond current Transformer and Large Language Model paradigms. This unified approach encompasses four revolutionary architecture families: CHIMERA (Cognitive Hybrid Intelligence for Memory-Embedded Reasoning Architecture), NEBULA (Neuromorphic Emulation of Broad-spectrum Ultrafast Light Architecture), QESN (Quantum Energy State Networks), and Optical Neural Networks. Each architecture leverages authentic physical principles—cellular automata dynamics, photonic computing, quantum mechanical evolution, and optical interference—to achieve computational intelligence entirely within GPU hardware using OpenGL rendering as universal computation.
 Our systems demonstrate remarkable performance: 43× speedup over PyTorch while reducing memory footprint by 88.7%, 30-65% accuracy on ARC-AGI abstract reasoning benchmarks, 98.657% accuracy on MNIST with optical physics simulation, and competitive performance across multiple domains including behavior classification, medical imaging, and exoplanet spectroscopy. Critically, all architectures operate universally across GPU vendors (Intel, AMD, NVIDIA, Apple Silicon, ARM) using only 10MB of framework dependencies versus 2.5GB+ for conventional deep learning stacks.
 This work establishes both theoretical foundations and practical implementations demonstrating that GPUs can function as standalone cognitive processors rather than mere computational accelerators. By treating rendering operations as cognitive primitives and GPU textures as both storage and computation substrate, we achieve real-time learning, universal hardware compatibility, and extreme efficiency. Our results suggest that the future of efficient AI lies not in larger Transformer models, but in biomimetic architectures that exploit the inherent parallelism and locality principles of biological neural systems through physics-based computation.
 Keywords: Neuromorphic Computing, GPU-Native Intelligence, OpenGL Computing, Photonic Neural Networks, Quantum Machine Learning, Cellular Automata, Abstract Reasoning, Physics-Based AI, Holographic Memory, Real-Time Learning
  
 
+![future_computing](https://github.com/user-attachments/assets/921adef3-b1d4-4aee-a36e-e3f8cbaec354)
 
  
 ### 1. Introduction: The Crisis of Current AI Architectures
@@ -243,6 +280,9 @@ Hardware	NVIDIA only (CUDA requirement)	Universal (Intel, AMD, NVIDIA, Apple)
 Dependencies	2.5GB+ (PyTorch, CUDA)	10MB (OpenGL only)
 Speed	80ms (matrix mult 2048×2048)	1.84ms (43× faster)
 Memory Usage	4.5GB+	510MB (88.7% reduction)
+
+![chimera_architecture_diagram](https://github.com/user-attachments/assets/5319ee28-493f-40df-baed-b1daea2fd476)
+
  
 ### 2. Theoretical Foundation: Physics as Computation
 Our unified framework rests on a fundamental observation: physical systems naturally perform computation. A ripple propagating across water solves partial differential equations. A crystal growing optimizes molecular bonds. Quantum particles interfere to explore superposition states. Nature computes through physics, not algorithms.
@@ -289,6 +329,9 @@ Quantum Mechanical Evolution (QESN):
 Quantum systems evolve according to Schrödinger equation:
 iℏ ∂ψ/∂t = Ĥψ
 where ψ is the wavefunction, ℏ is reduced Planck constant, and Ĥ is the Hamiltonian operator. For a 2D lattice of quantum neurons, Ĥ includes kinetic energy (diffusion), potential energy (external inputs), and coupling (neighbor interactions). GPU simulation uses Runge-Kutta integration to evolve ψ through discrete time steps.
+
+<img width="1024" height="1024" alt="chimera_concept" src="https://github.com/user-attachments/assets/b8579be9-2596-4d1c-b439-996c34688337" />
+
  
 ### 3. CHIMERA: Cognitive Hybrid Intelligence for Memory-Embedded Reasoning
 CHIMERA represents the most comprehensive implementation of GPU-native neuromorphic computing, specifically designed for abstract reasoning and general intelligence tasks. The architecture achieves 30-65% accuracy on the ARC-AGI benchmark—approaching human-level performance (80%) and surpassing all large language models including GPT-4 (34%) and Claude Sonnet 4.5 (28%).
@@ -352,6 +395,9 @@ Key Observations:
 •	Full v10.0 achieves 57.3% accuracy—approaching human level (80%) and surpassing GPT-4 (34%)
 •	Speed: 312ms per task vs. 8s for GPT-4—25× faster while using zero API calls
 •	Energy efficiency: ~0.006 Wh per task vs. 0.9 Wh for humans—150× more efficient
+
+<img width="1024" height="1024" alt="competitive_landscape" src="https://github.com/user-attachments/assets/cf39ad3d-ac1e-4689-81d6-16af47eb4f25" />
+
  
 
 ### 4. NEBULA: Neuromorphic Emulation of Broad-spectrum Ultrafast Light Architecture
@@ -394,6 +440,9 @@ Improvement	+14.0pp	Statistically significant (p<0.001)
 Processing Speed	~75ms	Per forward pass (inference)
 Memory Footprint	<2GB RAM	Inference memory requirement
 This breakthrough demonstrates that photonic physics—authentic optical ray propagation—can solve spatial reasoning tasks traditionally requiring massive neural networks. The 14-percentage-point improvement over random guessing proves physics-based computation encodes genuine problem-solving capability.
+
+<img width="1024" height="1024" alt="gpu_architecture" src="https://github.com/user-attachments/assets/2bfaa63d-825f-4b54-b1b4-1c5a19c35301" />
+
  
 
 ### 5. QESN: Quantum Energy State Networks
@@ -448,6 +497,7 @@ Key Observations:
 •	Energy efficiency: 2300× operations reduction = (14× speed) × (165× params)
  
 
+![hero_neural_network](https://github.com/user-attachments/assets/2e9d8ed5-d90a-4797-8bbf-5bbc64a74184)
 
 
 
@@ -466,6 +516,9 @@ Intelligence and Reasoning: Beyond speed, CHIMERA demonstrates general problem-s
 
 Validation and Recognition: CHIMERA was showcased as a finalist entry in the 2025 ARC Prize for novel AI reasoning systems, and has been open-sourced for the community. Its underlying ideas earned Francisco Angulo de Lafuente recognition as winner of the NVIDIA & LlamaIndex 2024 Developer Contest for innovative AI frameworks[9]. The project has garnered significant interest for proving that high-level cognitive tasks can be done without the huge infrastructure – no external RAM, no data centers – pointing to AI that can run anywhere. In summary, CHIMERA redefines the AI stack from the ground up: a tiny, physics-based GPU engine that delivers instant inference, universal hardware support, and human-like reasoning in one package[10][11]. This technology paves the way for ultra-fast chatbots, real-time translators, and autonomous systems that operate with minimal hardware and power[12][13].
 
+![market_analysis_chart](https://github.com/user-attachments/assets/f690ffb4-4699-4607-9400-d4f7eb3e9dc4)
+
+
 
 Physics-Inspired AI Systems – Project NEBULA & Beyond
  
@@ -476,11 +529,17 @@ While CHIMERA transforms how we use silicon GPUs, our NEBULA platform extends AI
 
 •	NEBULA for Medical Imaging: Traditional deep learning in healthcare is a black box, raising concerns in critical fields like radiology. NEBULA offers a solution: it integrates X-ray physics directly into the model’s logic. For example, our NEBULA-GrandXRay model uses a ray-tracing simulation of photon interactions in tissue (obeying Beer-Lambert’s law of attenuation, Compton scattering, etc.) instead of a standard convolutional network[15][16]. The model’s “neurons” are essentially physics operators, and it was trained with a custom loss function that penalizes any deviation from known physical laws during prediction. The result is a chest X-ray diagnostic model that achieved a slight but consistent improvement in AUC (2–5% higher) across multiple datasets compared to a CNN[17], while also guaranteeing 99.7% consistency with actual electromagnetic theory in its outputs[18]. In practice, this means the AI’s predictions adhere to real X-ray absorption patterns, making them far more interpretable to doctors and physicists. Moreover, the NEBULA model is lightweight (3.7 million parameters, ~42 MB) – an order of magnitude smaller than typical medical AI models[19]. This physics-driven approach has broad applications: we can plug the same core system into CT scan simulation, MRI analysis, ultrasound, etc., and even run it on upcoming optical computing hardware for further speed gains[20][21]. NEBULA showcases how embedding domain physics into AI yields trustworthy and efficient tools for critical industries.
 
+<img width="1024" height="1024" alt="performance_comparison_chart" src="https://github.com/user-attachments/assets/9047f4a2-fd92-4e6c-a0eb-195fe82ddf59" />
+
+
 
 •	Quantum-Inspired Neural Networks: Pushing further, we explored quantum mechanics as a computing resource for AI. Our Quantum Energy State Networks (QESN) project implements a lattice of simulated quantum neurons that evolve according to the Schrödinger equation. In essence, we harness phenomena like energy diffusion and quantum entanglement to naturally encode complex time-series patterns[22]. Tested on a challenging animal behavior recognition task (37 classes of mouse movements with extreme class imbalance), QESN reached a macro F1-score of 0.48, comparable to deep learning benchmarks – but using only 151,589 parameters vs tens of millions in the deep nets[23]. It runs in 2–5 milliseconds per inference on a standard CPU, which is 14× faster than recurrent neural networks, and memory-wise it’s 165× more compact[23]. This leap in efficiency comes from the rich dynamics of the quantum model: the system “learns” not by adjusting millions of weights, but by tuning a few physical parameters (like energy levels and coupling strengths) to achieve desired behavior. QESN also provides built-in transparency – we can visualize its quantum energy landscape to understand how it reaches decisions[24]. This is a template for quantum-inspired AI that could be implemented on real quantum hardware in the future, marrying the strengths of quantum computing with the pragmatic needs of machine learning.
 
 •	Emergent Intelligence & Complex Simulations: The NEBULA initiative also delves into emergent behavior – can intelligence “emerge” from a complex physics simulation? In NEBULA-EMERGENT, we constructed a virtual “neural galaxy”: millions of simulated neurons interacting through gravitational and electromagnetic forces in a 3D environment (implemented in Unreal Engine 5). Early experiments show promising signs of self-organization – the system can develop structured patterns and solve simple tasks without explicit programming[25][26]. While in nascent stages, this line of research suggests a future where AI learns and adapts as a complex physical system, not just as software. Such AI would be highly interpretable (since every action is a physical event) and potentially more robust, as it doesn’t rely on brittle algebraic computations. We also applied physics-based AI to specialized challenges: for instance, we built a lightweight interferometry model that detected anomalous gravitational-wave signals with 99.4% true positive rate and near-zero false alarms[27] – outperforming heavy black-box models – by using quantum optics principles instead of neural nets. In another project, we combined a small quantum simulator with a photonic neural network to analyze exoplanet spectra (for the ESA ARIEL mission), showing that our framework can directly interface with quantum computers (IBM Q, Google) and optical hardware for real-world deployment in astronomy. These diverse efforts under NEBULA all share a unifying theme: we design AI systems that are constrained by and guided by physical reality, whether it’s the physics of light, quantum states, or dynamics of complex systems. This yields AI that is explainable by design and able to leverage efficiencies that nature has already optimized.
 In summary, our physics-inspired AI work (NEBULA, QESN and related projects) demonstrates that we can transcend the limitations of purely digital neural networks. By using the analog principles of the universe – light propagation, quantum superposition, physical forces – we achieve models that are compact, fast, and interpretable without sacrificing accuracy. This opens the door to AI that runs on new hardware (photonic chips, quantum processors) and can be trusted in high-stakes applications because it plays by the same rules as the real world.
+
+<img width="1024" height="1024" alt="performance_metrics" src="https://github.com/user-attachments/assets/94c0c0d3-0567-4b1b-8a71-99cc3048ac30" />
+
 
 Achievements & Impact
 Over the past two years, our team has delivered a series of tangible results that validate these innovations:
@@ -491,6 +550,9 @@ Over the past two years, our team has delivered a series of tangible results tha
 
 
 •	Competition Participation: We’ve tested our methods in global AI challenges to gauge their real-world performance. Our entries in competitions like the Kaggle Grand X-Ray Slam 2025 (medical imaging) and the MABe 2022 behavior recognition challenge applied NEBULA and QESN techniques to large-scale data. While these early-stage models were prototype-level, they demonstrated viability – e.g. our NEBULA-based model successfully processed the entire chest X-ray dataset with full physics validation, and QESN handled the complexity of multi-agent behavioral sequences. We also took part in the prestigious NeurIPS 2025 ARIEL exoplanet challenge and the ARC Prize AGI challenge, using our unique architectures to tackle problems usually dominated by deep learning. Each foray provided valuable feedback, helping us refine performance and robustness. The key outcome is that our systems, even in prototype form, can plug into standard AI tasks and datasets – showing promise that with further development, they can compete with or outperform conventional approaches in industry settings.
+
+![render_compute_workflow](https://github.com/user-attachments/assets/fe68a815-31a5-426b-a8f9-c072cc4c5b9b)
+
 
 •	Awards & Recognition: Our novel approach has started to gain recognition. Francisco Angulo de Lafuente, the lead researcher, won the 2024 NVIDIA/LlamaIndex Developer Contest for the Enhanced Holographic Neural Network project[9], highlighting industry interest in these ideas. Our CHIMERA paper was featured in the ARC Prize 2025 showcase, and the work on optical and quantum networks has been invited for talks on next-gen AI hardware. We have built collaborations with a few academic groups exploring photonic computing, and early discussions with tech companies looking at efficient AI on edge devices. This external validation underscores that our research is not only scientifically bold but also strategically relevant – it addresses the urgent need for more efficient, explainable AI solutions as the limits of purely scale-driven AI become apparent.
 
