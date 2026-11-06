@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "project": "AI Investment Proposal Generator",
+  "repository_title": "NEBULA-X Research: A Technical Capabilities Report",
+  "author": "Francisco Angulo de Lafuente",
+  "orcid": "https://orcid.org/0009-0001-1634-7063",
+  "copyright_year": 2025,
+  "recorded_on": "2026-11-06",
+  "canonical_url": "https://github.com/Agnuxo1/NEBULA-X-Research-A-Technical-Capabilities-Report",
+  "authorship_basis": {
+    "commits_in_checked_history": 8,
+    "author_name": "Francisco Angulo de Lafuente",
+    "github_account": "Agnuxo1",
+    "configuration_attribution": [
+      ".gitignore",
+      "tsconfig.json"
+    ],
+    "preserved_platform_metadata": "metadata.json left unchanged"
+  },
+  "baseline": {
+    "commit": "08ba88f0dd63a87fa54ab57a02aa754717d1416f",
+    "tree": "c9516abe9611f55171b0abfcb6c5c65e4952a409",
+    "tracked_path_count": 14,
+    "local_evidence_manifest": "repo48-provenance-baseline.json"
+  },
+  "license_scope": {
+    "github_license": null,
+    "root_license_file_present": false,
+    "package_license_field_present": false,
+    "license_added_by_this_record": false,
+    "spdx_headers_added": false,
+    "copyright_attribution_only": true,
+    "external_materials": "not covered; see LICENSE_SCOPE.md"
+  },
+  "content_provenance": {
+    "readme_type": "investor and technical portfolio presentation",
+    "quantitative_and_ranking_claims": "not independently validated by this repository",
+    "gemini_prompt_embeds_research_summaries": true,
+    "prompt_instructs_extrapolation": true,
+    "generated_reports_are_saved_in_repository": false,
+    "primary_source_review_required": true
+  },
+  "external_record": {
+    "doi": "10.5281/zenodo.17285010",
+    "title": "A Physics-Inspired SU(2) Interferometric Pipeline for Anomalous Gravitational-Wave Detection",
+    "relation": "separate linked paper; not this software's DOI or license",
+    "license": null,
+    "publication_date": "2025-10-07",
+    "metadata_checked_on": "2026-11-06"
+  },
+  "publication_state_checked": {
+    "visibility": "public",
+    "default_branch": "main",
+    "release_count": 0,
+    "tag_count": 0,
+    "software_doi_identified": false
+  },
+  "validation": {
+    "vite_build": "passed, but transformed only static HTML because there is no module entry script",
+    "typescript_check": "failed on pre-existing JSX parse error in unchanged App.tsx markup",
+    "test_script_present": false,
+    "runtime_verified": false
+  },
+  "security": {
+    "frontend_api_key_injection_risk": "vite.config.ts defines API_KEY from GEMINI_API_KEY; if the React app entry is bundled, the value is inlined into client JavaScript",
+    "tracked_api_key_found": false,
+    "deployment_note": "do not deploy a real API key in the client bundle; use a server-side proxy"
+  }
+}

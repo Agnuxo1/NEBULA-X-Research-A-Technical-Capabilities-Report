@@ -1,5 +1,13 @@
 {
   "name": "ai-investment-proposal-generator",
+  "author": {
+    "name": "Francisco Angulo de Lafuente",
+    "url": "https://orcid.org/0009-0001-1634-7063"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Agnuxo1/NEBULA-X-Research-A-Technical-Capabilities-Report.git"
+  },
   "private": true,
   "version": "0.0.0",
   "type": "module",

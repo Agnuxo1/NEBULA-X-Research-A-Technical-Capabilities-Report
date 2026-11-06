@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "AI Investment Proposal Generator"
+abstract: >-
+  React and Vite application that uses Google Gemini to synthesize embedded research summaries
+  and Google Search grounding to retrieve market context for a technical capabilities report.
+  The application prompt asks the model to extrapolate descriptions, so generated claims require
+  independent review against their cited primary sources.
+authors:
+  - family-names: "Angulo de Lafuente"
+    given-names: "Francisco"
+    orcid: "https://orcid.org/0009-0001-1634-7063"
+version: "0.0.0"
+repository-code: "https://github.com/Agnuxo1/NEBULA-X-Research-A-Technical-Capabilities-Report"
+keywords:
+  - technical capabilities report
+  - research portfolio
+  - generative AI
+  - Gemini

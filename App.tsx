@@ -1,3 +1,10 @@
+/* NEBULA-X Research: AI Investment Proposal Generator
+ * Copyright (c) 2025 Francisco Angulo de Lafuente
+ * Author: Francisco Angulo de Lafuente
+ * ORCID: https://orcid.org/0009-0001-1634-7063
+ * Attribution record date: 2026-11-06
+ */
+
 import React, { useState, useCallback } from 'react';
 import { ReportData } from './types';
 import { generateInvestmentProposal } from './services/geminiService';
@@ -72,7 +79,7 @@ const App: React.FC = () => {
           Technical Capabilities Report Generator
         </h1>
         <p className="mt-6 text-lg text-gray-300">
-          Utilizing Gemini 2.5 Pro to conduct a deep analysis of research papers, source code, and performance benchmarks to generate a comprehensive and professional capabilities report.
+          Uses Gemini 2.5 Pro to synthesize research summaries embedded in the prompt and Google Search grounding to retrieve market context. It does not inspect repository source code or benchmark logs; generated claims may extrapolate and should be checked against primary sources.
         </p>
       </div>
       <button
