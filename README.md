@@ -7,6 +7,10 @@
 
 > **Provenance and validation note (2026-11-06):** This repository contains a report generator and a portfolio presentation, not the underlying experiment logs, datasets, or contest submissions needed to verify every numeric, ranking, publication, or market claim. The generator embeds research summaries, and its Gemini prompt explicitly asks the model to extrapolate descriptions; generated text may require correction. Check claims against their cited primary records before external or investment use. Visibility and licensing vary across referenced projects. The current Vite build does not bundle the React app entry, and TypeScript checking reports a JSX parse error; runtime behavior has not been verified. If a React build is wired and uses a real GEMINI_API_KEY, vite.config.ts will inline it into client-side JavaScript; do not deploy with real credentials until API calls use a server-side proxy. No API key was found in the tracked repository.
 
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> This repository collects a technical portfolio and a report-generator design for related NEBULA and CHIMERA projects. Its intended benefit is to reduce the work of navigating dispersed research descriptions and preparing an overview for collaborators. The <a href="README.md">provenance and validation note</a> identifies build and evidence limitations, so this contribution is documentation organization rather than a verified runtime or performance result.</sub>
+<!-- impact-note:end -->
+
 ## Investor Presentation  
 **Presented by Francisco Angulo de Lafuente**  
 *Independent Researcher & AI Innovator*  
